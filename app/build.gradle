@@ -1,6 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
+    namespace 'com.cinebox.tv'
     compileSdkVersion 33
 
     defaultConfig {
